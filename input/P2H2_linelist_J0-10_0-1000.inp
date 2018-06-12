@@ -1,0 +1,53 @@
+ 38                                                                     (number of intensity files)
+P2H2_h_J0_C2h_2__0__.out
+P2H2_h_J0_C2h_2__1__.out
+P2H2_h_J1_C2h_4__0__.out
+P2H2_h_J1_C2h_4__1__.out
+P2H2_h_J1_C2h_4__2__.out
+P2H2_h_J1_C2h_4__3__.out
+P2H2_h_J2_C2h_4__0__.out
+P2H2_h_J2_C2h_4__1__.out
+P2H2_h_J2_C2h_4__2__.out
+P2H2_h_J2_C2h_4__3__.out
+P2H2_h_J3_C2h_4__0__.out
+P2H2_h_J3_C2h_4__1__.out
+P2H2_h_J3_C2h_4__2__.out
+P2H2_h_J3_C2h_4__3__.out
+P2H2_h_J4_C2h_4__0__.out
+P2H2_h_J4_C2h_4__1__.out
+P2H2_h_J4_C2h_4__2__.out
+P2H2_h_J4_C2h_4__3__.out
+P2H2_h_J5_C2h_4__0__.out
+P2H2_h_J5_C2h_4__1__.out
+P2H2_h_J5_C2h_4__2__.out
+P2H2_h_J5_C2h_4__3__.out
+P2H2_h_J6_C2h_4__0__.out
+P2H2_h_J6_C2h_4__1__.out
+P2H2_h_J6_C2h_4__2__.out
+P2H2_h_J6_C2h_4__3__.out
+P2H2_h_J7_C2h_4__0__.out
+P2H2_h_J7_C2h_4__1__.out
+P2H2_h_J7_C2h_4__2__.out
+P2H2_h_J7_C2h_4__3__.out
+P2H2_h_J8_C2h_4__0__.out
+P2H2_h_J8_C2h_4__1__.out
+P2H2_h_J8_C2h_4__2__.out
+P2H2_h_J8_C2h_4__3__.out
+P2H2_h_J9_C2h_4__0__.out
+P2H2_h_J9_C2h_4__1__.out
+P2H2_h_J9_C2h_4__2__.out
+P2H2_h_J9_C2h_4__3__.out
+P2H2_C2H_en.dat  
+j0eigen_descr                                                          (descr-files)                                    
+P2H2_C2H_0-10                                                         ( Transition file               
+none                                                                  ( Energy file )                 
+6  4  4                                                                 (Nmodes Nsym)
+Ag  1.0  Au 1.0 Bg  3.0  Bu  1.0 
+ 0.0    1000.0
+ 5000000
+
+
+
+
+
+
